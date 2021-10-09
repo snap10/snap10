@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/fired_dann"><img src="https://api.daily.dev/devcards/60cba56be1764099934a4a5256e7890f.png?r=riw" width="400" alt="Ferdinand B.'s Dev Card"/></a>
 <!--
 **snap10/snap10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
